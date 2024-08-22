@@ -1,7 +1,11 @@
 import React from 'react'
+import { Header,Footer } from '../components'
 
 export default function Portfolio() {
   return (
-    <div>Portfolio</div>
+    <>
+      <Header/>
+      <Footer/>
+    </>
   )
 }

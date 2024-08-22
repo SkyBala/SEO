@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-export default function Header() {
+export const Header = () => {
   return (
     <section className='container'>
       <header>

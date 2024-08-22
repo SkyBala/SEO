@@ -1,6 +1,5 @@
-import { MainPageFirstBlock, MainPageFiveBlock, MainPageFourBlock, MainPageSecondBlock, MainPageThirdBlock,MainPageSixBlock, MainPageSevenBlock, MainPageEightBlock, MainPageTenBlock } from "../components";
-import Header from "../components/header/Header";
-import { Footer } from "../components/footer/Footer";
+import {Header,Footer, MainPageFirstBlock, MainPageFiveBlock, MainPageFourBlock, MainPageSecondBlock, MainPageThirdBlock,MainPageSixBlock, MainPageSevenBlock, MainPageEightBlock, MainPageTenBlock } from "../components";
+
 export default function Main() {
   return (
    <section className="font-raleway">

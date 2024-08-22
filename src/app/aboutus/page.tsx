@@ -5,9 +5,7 @@ const AboutUsSixBlock  = dynamic(() => import('../components/aboutUs/AboutUsSixB
   ssr: false,
 });
 
-import Header from '../components/header/Header';
-import { Footer } from '../components/footer/Footer';
-import { AboutUsFirstBlock, AboutUsFourBlock, AboutUsSecondBlock, AboutUsThreeBlock, MainPageSevenBlock } from '../components';
+import {Header,Footer, AboutUsFirstBlock, AboutUsFourBlock, AboutUsSecondBlock, AboutUsThreeBlock, MainPageSevenBlock, MainPageThirdBlock,AboutUsSevenBlock, MainPageSixBlock,MainPageEightBlock,MainPageTenBlock } from '../components';
 
 export default function AboutUs() {
   return (
@@ -21,6 +19,11 @@ export default function AboutUs() {
       <AboutUsFourBlock />
       <MainPageSevenBlock />
       <AboutUsSixBlock />
+      <MainPageThirdBlock/>
+      <AboutUsSevenBlock/>
+      <MainPageSixBlock/>
+      <MainPageEightBlock/>
+      <MainPageTenBlock/>
       <Footer />
     </div>
   );

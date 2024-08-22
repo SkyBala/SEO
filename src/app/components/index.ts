@@ -1,3 +1,7 @@
+export { Header } from './header/Header'
+export { Footer } from './footer/Footer'
+
+
 
 export {MainPageFirstBlock} from './mainPage/MainPageFirstBlock';
 export {MainPageSecondBlock} from './mainPage/MainPageSecondBlock';
@@ -17,4 +21,9 @@ export { AboutUsFirstBlock } from './aboutUs/AboutUsFirstBlock';
 export { AboutUsSecondBlock } from './aboutUs/AboutUsSecondBlock';
 export { AboutUsThreeBlock } from './aboutUs/AboutUsThreeBlock';
 export { AboutUsFourBlock } from './aboutUs/AboutUsFourBlock';
+export { AboutUsSevenBlock } from './aboutUs/AboutUsSevenBlock';
 
+///service
+export { ServicePageFirstBlock } from './ServicePage/ServicePageFirstBlock';
+export {ServicePageSecondBlock} from './ServicePage/ServicePageSecondBlock';
+export {ServicePageThirdBlock} from './ServicePage/ServicePageThirdBlock'

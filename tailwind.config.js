@@ -14,8 +14,7 @@ module.exports = {
         sm: '576px',
         md: '768px',
         tablet: '1026px',
-        lg: '1300px',
-        xl: '1720px',
+        xl: '1440px',
       },
 
        fontFamily: {
@@ -87,6 +86,7 @@ module.exports = {
       },
     },
        colors: {
+              
              "border": "hsl(var(--border))",
              "input": "hsl(var(--input))",
              "ring": "hsl(var(--ring))",

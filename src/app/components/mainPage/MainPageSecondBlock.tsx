@@ -10,7 +10,7 @@ export const  MainPageSecondBlock =()  => {
       </div>
         <h3 className='font-raleway text-[54px] leading-[4rem] z-20  font-bold'>“We are passionate <br/> about creating visually<br/> stunning </h3>
       <span className='text-[16px] font-raleway mt-[24px] mb-[52px]  z-20' >We improve our clients marketing results with a data driven approach<br/> and we are hell-bent on making it awesome. Our goal is to create a <br/>new, data oriented quality of e-comerce experience by leveraging <br/>powerful real-time analytics.</span>
-      <button className='pt-[10px] pb-[10px] pr-[20px] pl-[20px] bg-[#84FF00] font-bold font-raleway text-[18px] rounded-[10px] text-black  z-20'>Подробнее</button>
+      <button className='pt-[10px] pb-[10px] pr-[20px] pl-[20px] bg-[#84FF00] font-bold font-raleway text-[18px] rounded-[10px] text-[black]  z-20'>Подробнее</button>
       </div>
       <div className='flex flex-col w-[40vw]'>
           <div className='flex flex-col mt-[40px] '>
