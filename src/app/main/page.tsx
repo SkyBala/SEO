@@ -3,20 +3,20 @@ import {Header,Footer, MainPageFirstBlock, MainPageFiveBlock, MainPageFourBlock,
 export default function Main() {
   return (
    <section className="font-raleway">
-    <Header/>
-    <MainPageFirstBlock/>
-    <MainPageSecondBlock/>
-    <div className="bg-[white] text-[black]  font-raleway">
-    <MainPageThirdBlock/>
-    <MainPageFourBlock/>
-    
-    </div>
-    <MainPageSixBlock/>
-    <MainPageSevenBlock/>
-    <MainPageEightBlock/>
-    <MainPageTenBlock/>
-    <hr></hr>
-    <Footer/>  
+      <Header/>
+      <MainPageFirstBlock/>
+      <MainPageSecondBlock/>
+      <div className="bg-[white] text-[black]  font-raleway">
+      <MainPageThirdBlock/>
+      <MainPageFourBlock/>
+      
+      </div>
+      <MainPageSixBlock/>
+      <MainPageSevenBlock/>
+      <MainPageEightBlock/>
+      <MainPageTenBlock/>
+      <hr></hr>
+      <Footer/>  
    </section>
   );
 }

@@ -26,4 +26,20 @@ export { AboutUsSevenBlock } from './aboutUs/AboutUsSevenBlock';
 ///service
 export { ServicePageFirstBlock } from './ServicePage/ServicePageFirstBlock';
 export {ServicePageSecondBlock} from './ServicePage/ServicePageSecondBlock';
-export {ServicePageThirdBlock} from './ServicePage/ServicePageThirdBlock'
+export {ServicePageThirdBlock} from './ServicePage/ServicePageThirdBlock';
+export {ServicePageFourBlock} from './ServicePage/ServicePageFourBlock';
+export {ServicePageFiveBlock} from './ServicePage/ServicePageFiveBlock';
+
+///serviceId
+export { ServiceIdPageFirstBlock } from './serviceIdPage/ServiceIdPageFirstBlock';
+export { ServiceIdPageSecondBlock } from './serviceIdPage/ServiceIdPageSecondBlock';
+export { ServiceIdPageThirdBlock } from './serviceIdPage/ServiceIdPageThirdBlock';
+
+///contacts
+export { ContactPageFirstBlock } from './contacts/ContactPageFirstBlock';
+export { ContactPageSecondBlock } from './contacts/ContactPageSecondBlock';
+export { ContactPageThirdBlock } from './contacts/ContactPageThirdBlock';
+
+///porfolioPage
+export {PortfolioPageFirstBlock} from './portfolio/PortfolioPageFirstBlock';
+export {PortfolioPageThirdBlock} from './portfolio/PortfolioPageThirdBlock';
